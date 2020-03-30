@@ -1,1 +1,1 @@
-This is a demo repo to ask help on a python group (:
+This is a demo repo to ilustrate dependency hell and try and solve it
