@@ -3,10 +3,15 @@ This is a demo repo to ilustrate dependency hell and try and solve it
 To see what I mean:
 
 0- If you don't already have poetry:
+
 ```bash
+
 curl -sSL https://raw.githubusercontent.com/sdispater/poetry/master/get-poetry.py | python
+
 echo 'export PATH=$PATH:$HOME/.poetry/bin' >> ~/.bashrc
+
 source ~/.bashrc
+
 ```
 
 1- Run `poetry install`
